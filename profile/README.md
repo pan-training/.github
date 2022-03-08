@@ -7,3 +7,5 @@ The e-Learning platform has courses on both the theory of photon and neutron sca
 and how to use python code or software for data reduction and modelling.
 
 The e-Learning platform is supported by [PaNOSC](https://www.panosc.eu/) and the catalogue is supported by [ExPaNDS](https://expands.eu/).
+
+Other useful repos: [https://github.com/panosc-eu/panosc](https://github.com/panosc-eu/panosc)
